@@ -37,10 +37,6 @@
   <img src="https://streak-stats.demolab.com?user=kurama-0x1&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurama-0x1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=kurama-0x1&color=7F5AF0&style=flat-square&label=Profile+views" />
